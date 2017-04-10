@@ -1,0 +1,8 @@
+cscope.*
+obj-intel64/*
+*.swp
+*.so
+*.o
+result
+scripts
+output

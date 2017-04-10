@@ -1,0 +1,6 @@
+*.so
+m_generated/
+*.orig
+tags
+cscope.*
+*.swp
